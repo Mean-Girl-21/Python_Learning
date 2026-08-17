@@ -56,11 +56,3 @@ print(cars_in_delhi)
 # Finding out the length of a list using len function
 print(len(cars_in_delhi))
 
-cars = ["audi", "bmw", "toyota", "subaru", "maruti", "nano"]
-print(cars[::2])
-#::-1 FOR LEFT TO RIGHT BUT IN REVERSE. list always goes from left to right
-# text = "python"
-# print(text)
-# text = "jython"
-# print(text)
-# text[0] = "j"
